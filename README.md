@@ -1,0 +1,2 @@
+# financeApp
+Finance management code
